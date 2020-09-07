@@ -1,0 +1,22 @@
+.course{
+    float: left;
+    
+}
+.single-course{
+    margin-right: 1px;
+    margin-bottom: 10px;
+}
+
+.card-class{
+    height: 440px;
+}
+
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+
+.card-footer Button{
+    width:100%;
+    font-weight: bold;
+}

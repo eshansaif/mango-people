@@ -1,4 +1,20 @@
-.App {
+.main{
+  margin-top: 80px;
+  display: flex;
+}
+.course-section{
+  width: 70%;
+  /* padding-right: 5px; */
+  border-right: 1px solid lightgray;
+}
+
+.cart-section{
+  width:30%;
+}
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +51,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

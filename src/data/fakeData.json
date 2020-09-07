@@ -1,0 +1,142 @@
+[{
+    "id": 1,
+    "course_name": "Data Structures And Algorithms",
+    "instructor": "Junie Footer",
+    "short_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots...",
+
+    "price": 2000,
+    "image": "https://img-a.udemycdn.com/course/240x135/1917546_682b_2.jpg"
+  }, {
+    "id": 2,
+    "course_name": "React Native for Multiplatform Mobile App Development",
+    "instructor": "Devonna Sayward",
+    "short_desc": "E Latin words, consectetur, from a Lorem Ipsum passage, and going through...",
+    "price": 1800,
+    "image": "https://img-a.udemycdn.com/course/240x135/1436092_2024_4.jpg"
+  }, {
+    "id": 3,
+    "course_name": "Mastering IELTS Writing: Academic & General",
+    "instructor": "Andrew Yerill",
+    "short_desc": "Lorem ipsum' will uncover many web sites still in their infancy.......",
+    "price": 1000,
+    "image": "https://img-a.udemycdn.com/course/240x135/2405316_d219_3.jpg"
+  }, {
+    "id": 4,
+    "course_name": "IELTS Academic Test: Complete Preparation",
+    "instructor": "Clementia Sulley",
+    "short_desc": "undoubtable source. Lorem Ipsum comes from sections 1.10.32 and... ",
+    "price": 2250,
+    "image": "https://img-a.udemycdn.com/course/240x135/1681754_69a4_6.jpg"
+  }, {
+    "id": 5,
+    "course_name": "React & Redux For Front End Web Development",
+    "instructor": "Tabby Abba",
+    "short_desc": "But I must explain to you how all this mistaken idea of denouncing pleasure.....",
+    "price": 3500,
+    "image": "https://img-a.udemycdn.com/course/240x135/2195280_49b2_2.jpg"
+  }, {
+    "id": 6,
+    "course_name": "Android App Development with Java",
+    "instructor": "Elfreda Ayton",
+    "short_desc": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis ...",
+    "price": 2000,
+    "image": "https://img-a.udemycdn.com/course/240x135/1569384_84dd.jpg"
+  }, {
+    "id": 7,
+    "course_name": "Career Track: Full Stack Web Development",
+    "instructor": "Dov Heart",
+    "short_desc": "On the other hand, we denounce with righteous indignation and dislike men who...",
+    "price": 9000,
+    "image": "https://img-a.udemycdn.com/course/240x135/1002676_3c6e_2.jpg"
+  }, {
+    "id": 8,
+    "course_name": "Macros & VBA for Excel Automation",
+    "instructor": "Andrus Bellchamber",
+    "short_desc": "When our power of choice is untrammelled and when nothing prevents our being able ...",
+    "price": 1500,
+    "image": "https://img-a.udemycdn.com/course/240x135/1364644_f4d0.jpg"
+  }, {
+    "id": 9,
+    "course_name": "Complete HTML5, CSS3 & Bootstrap 4",
+    "instructor": "Kurt Blockley",
+    "short_desc": "",
+    "price": 1000,
+    "image": "https://img-a.udemycdn.com/course/240x135/2529704_0381_4.jpg"
+  }, {
+    "id": 10,
+    "course_name": "Modern JavaScript Programming",
+    "instructor": "Annabelle Linham",
+    "short_desc": "Ms ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos ...",
+    "price": 1800,
+    "image": "https://img-a.udemycdn.com/course/240x135/37684_d762_9.jpg"
+  }, {
+    "id": 11,
+    "course_name": "Django Projects: Blog, eCommerce & Social Media",
+    "instructor": "Chic Weekley",
+    "short_desc": "",
+    "price": 1500,
+    "image": "https://img-a.udemycdn.com/course/240x135/822444_a6db.jpg"
+  }, {
+    "id": 12,
+    "course_name": "Statistics / Data Analysis with SPSS",
+    "instructor": "Nicki Georger",
+    "short_desc": "",
+    "price": 800,
+    "image": "https://img-a.udemycdn.com/course/240x135/84085_9689_13.jpg"
+  }, {
+    "id": 13,
+    "course_name": "Introductory JAVA Programming for beginners",
+    "instructor": "Joete Tremollet",
+    "short_desc": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for....",
+    "price": 900,
+    "image": "https://img-a.udemycdn.com/course/240x135/2819407_f26b.jpg"
+  }, {
+    "id": 14,
+    "course_name": "Data Driven Marketing A-Z: Improve Your Campaign Performance",
+    "instructor": "Myrilla Brosch",
+    "short_desc": "When our power of choice is untrammelled and when nothing prevents our being...",
+    "price": 1000,
+    "image": "https://img-a.udemycdn.com/course/240x135/858848_98de.jpg"
+  }, {
+    "id": 15,
+    "course_name": "Django: Backend Web Development with Projects",
+    "instructor": "Dee dee Buist",
+    "short_desc": " our power of choice is untrammelled and when nothing prevents our being able ...",
+    "price": 3000,
+    "image": "https://img-a.udemycdn.com/course/240x135/1548820_65de.jpg"
+  }, {
+    "id": 16,
+    "course_name": "Python for Beginners to Expert",
+    "instructor": "Marlane Rodgers",
+    "short_desc": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for....",
+    "price": 4000,
+    "image": "https://img-a.udemycdn.com/course/240x135/2128762_1ea7_2.jpg"
+  }, {
+    "id": 17,
+    "course_name": "Premium GRE® Prep Course: Improve Your GRE Score",
+    "instructor": "Glenn Havock",
+    "short_desc": "e Latin words, consectetur, from a Lorem Ipsum passage, and going through...",
+    "price": 2150,
+    "image": "https://img-a.udemycdn.com/course/240x135/685310_5a5b.jpg"
+  }, {
+    "id": 18,
+    "course_name": "AutoCAD 2D & 3D with Practice Problem",
+    "instructor": "Shayne Sturgis",
+    "short_desc": "",
+    "price": 890,
+    "image": "https://img-a.udemycdn.com/course/240x135/2451388_0877_3.jpg"
+  }, {
+    "id": 19,
+    "course_name": "Excellence with Excel",
+    "instructor": "Kent Taunton",
+    "short_desc": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for....",
+    "price": 1150,
+    "image": "https://img-a.udemycdn.com/course/240x135/452232_8c06_2.jpg"
+  }, {
+    "id": 20,
+    "course_name": "Creating E-Commerce Website With Woocommerce",
+    "instructor": "Adda Pimm",
+    "short_desc": "There are many variations of passages of Lorem Ipsum available, but the...", 
+    "price": 1000,
+    "image": "https://img-a.udemycdn.com/course/240x135/1906042_1f41.jpg"
+  }]
